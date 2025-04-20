@@ -1,10 +1,10 @@
-# User-management
+# HR-management
 
-It's User Management System.
+It's HR Management System.
 
 ## Table of Contents
 
-- [User-management](#user-management)
+- [HR-management](#HR-management)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
@@ -23,16 +23,7 @@ It's User Management System.
 
 Open your terminal and follow the commands:
 
-```bash
-git clone git@github.com:nishant-sendinblue/User-Management.git
 
-cd frontend
-npm install
-
-cd server
-npm install
-
-```
 
 To run project on local, open terminal and follow these steps:
 
